@@ -7,7 +7,7 @@ This is an clustering analytics application based on the location of the bike st
 
 - Languages: Python3
 
-- Output: A csv file which contains original data and its label of cluster ("Groupes.csv")
+- Output: A csv file which contains original data and its label of cluster ("Groupes.csv").In our case we found 3 groups lablised.
 
 # Clustering.py
 
