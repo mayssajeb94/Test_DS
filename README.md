@@ -16,8 +16,8 @@ This is an clustering analytics application based on the location of the bike st
 - Preparing Input Data K-means algorithm works only on numerical features and so it needs to quantify the features in order to calculate distance between data objects. Here, we are implementing the KMeans on the locations (latitude and longitude).
 
 - Determination the optimal nubmer of k using the elbow method.
-
- we have to select the value of k at the “elbow” ie the point after which the distortion/inertia start decreasing in a linear fashion.
+   we have to select the value of k at the “elbow” ie the point after which the distortion/inertia start decreasing in a linear fashion.
+   
 - Application of the algorithm of k means.
 
 - Exporting the result in csv format.
